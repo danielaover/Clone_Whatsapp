@@ -45,3 +45,10 @@ io.emit("message", message);
  })
 
 server.listen(port, () => console.log(`servidor rodando na porta ${port}`))
+
+
+![image](https://github.com/user-attachments/assets/3092ebbf-80ab-4b78-a176-e9604b39b1cf)
+
+![image](https://github.com/user-attachments/assets/c623836e-c4b3-40d6-9767-378c72f73223)
+
+
